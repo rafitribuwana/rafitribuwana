@@ -1,132 +1,124 @@
-# Hi there 👋 I'm Mohammad Rafi Tri Buwana
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Engineering+Enthusiast;Computer+Science+Student;Always+Learning+New+Things" />
+# Hi 👋 I'm Mohammad Rafi Tri Buwana
+
+### 🎓 Computer Science Student | 💻 Full Stack Developer | 📊 Data Engineering Enthusiast
+
+<p>
+  <a href="https://github.com/rafitribuwana">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineering;Data+Engineering;Always+Learning+Something+New" />
+  </a>
 </p>
 
----
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rafitribuwana&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/rafitribuwana?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/rafitribuwana?affiliations=OWNER&style=flat&color=yellow" />
+</p>
 
-## 🚀 About Me
-
-🎓 Computer Science Student
-
-💻 Passionate about **Full Stack Development**, **Backend Engineering**, and **Data Engineering**
-
-📚 Currently learning
-
-* Spring Boot
-* React
-* Golang
-* Data Engineering
-* Cloud Computing
-* Software Architecture
-
-🌱 I enjoy solving real-world problems through software and continuously improving my technical skills.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Passionate about Backend & Full Stack Development
+- 📊 Interested in Data Engineering and Cloud Computing
+- 🌱 Currently learning Spring Boot, React, Golang, Docker
+- 📚 Love building scalable and maintainable applications
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,go,python,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,go,python,javascript,html,css,cpp,php"/>
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,bootstrap,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=spring,bootstrap,nodejs,react"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,xampp"/>
 </p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,linux" />
+### DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kiro-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AntiGravity-6C63FF?style=for-the-badge" />
+</p>
+---
+
+# 📌 Current Focus
+
+- 🌐 Full Stack Web Development
+- ⚙️ REST API Development
+- ☁️ Cloud Deployment
+- 📊 Data Engineering
+- 🏗 Software Architecture
+- 🧹 Clean Code
+- 🎯 Design Patterns
 
 ---
 
-## 📂 Current Focus
-
-* 🌐 Full Stack Web Development
-* ⚙️ Backend API Development
-* 📊 Data Engineering
-* ☁️ Cloud Technologies
-* 🏗 Software Architecture
-* 📈 Clean Code & Design Patterns
-
----
-
-## 📌 Featured Projects
+# 📂 Featured Projects
 
 ### 🏨 Hotel Management System
 
-Spring Boot application implementing MVC, DTO, Repository Pattern, Authentication, and Room Management.
+Spring Boot application implementing MVC, DTO, Repository Pattern, Authentication, CRUD, and MySQL.
+
+---
 
 ### ☕ CoffeeWithUs
 
-Coffee shop reservation and ordering website with responsive frontend and backend REST architecture.
+Modern Coffee Shop Reservation Website built with Spring Boot and Bootstrap.
 
-### 🛡 Anti-Bullying Reporting System
+---
+# 📊 GitHub Statistics
 
-Research project utilizing E-Governance concepts to provide an efficient and transparent anti-bullying reporting platform.
+<p align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=rafitribuwana&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 
 ---
 
-## 📈 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafitribuwana&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rafitribuwana&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafitribuwana&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafitribuwana&theme=tokyo-night&hide_border=true"/>
 
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rafitribuwana&theme=algolia&margin-w=10"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 🎯 2026 Goals
 
-* Advanced Spring Boot
-* React Ecosystem
-* Docker
-* Kubernetes
-* Data Pipeline
-* Apache Spark
-* Cloud Deployment
-* CI/CD
+- ✅ Become a Professional Full Stack Developer
+- ✅ Master Spring Boot Ecosystem
+- ✅ Learn React Deeply
+- ✅ Master Data Engineering
+- ✅ Build Cloud Native Applications
+- ✅ Contribute to Open Source
 
 ---
-
-## 🎯 2026 Goals
-
-* Build production-ready Full Stack applications
-* Master Spring Boot ecosystem
-* Learn modern Data Engineering tools
-* Contribute to Open Source projects
-* Deploy scalable cloud applications
-* Strengthen problem-solving and system design skills
-
----
-
 ## 🤝 Let's Connect
-
 <p>
 <a href="https://github.com/rafitribuwana">
 <img src="https://skillicons.dev/icons?i=github" />
@@ -143,6 +135,8 @@ Research project utilizing E-Governance concepts to provide an efficient and tra
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+### ⭐ Thanks for visiting my profile! ⭐
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
