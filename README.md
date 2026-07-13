@@ -50,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,xampp"/>
 </p>
 
-### DevOps & Tools
+### & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven" />
 </p>
